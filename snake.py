@@ -304,7 +304,6 @@ while True:
         redrawSurface()
 
         # The many ways to kill a snake
-        snakeReaper()
         if snakePosition[0] > 780 or snakePosition[0] < 0:
             reaperReport = 'Hit horizontal walls'
             gameOver()
