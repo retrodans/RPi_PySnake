@@ -1,4 +1,4 @@
-##About
+## About
 This game used the snake tutorial from 'Raspberry Pi User Guide as a base.  But then went on to add the below extras:
 - Ability to restart with Y or N and explanation copy
 - Some instructions for when the game starts aswell as a 'ready' option
@@ -7,12 +7,12 @@ This game used the snake tutorial from 'Raspberry Pi User Guide as a base.  But 
 
 
 
-##Why
+## Why
 As part of some personal research time I allocated myself, I wanted to start on some RaspberryPi development.  To do this, I of course need to start to lear Python to at least a very basic degree.  I am a web (PHP) developer by trade, so this was not a huge leap, the logic was similar, so using search engines to get answers was fine as I had the code terminology already in my head.
 
 
 
-##What I learnt
+## What I learnt
 Whilst going from PHP to Python was easier than starting from nowehere, there were still a few areas in particular which I had to learn.  Not only were some of these in the code, but also the ecosystem.  With PHP I was spoilt with the depth of information out there, and the knowledge that if I needed trustworthy documentation PHP.net was always there.
 - Python creates a value and references that (as opposed to settings a value to a variables), this means that if you set a=1, then do b=a, then edit b=2, the pointer of both a AND b will go to 2
 - Mutable v Immutable (http://www.youtube.com/watch?v=1HPC24nIy9E)
@@ -26,11 +26,11 @@ Whilst going from PHP to Python was easier than starting from nowehere, there we
 
 
 
-##Specifics which could be improved upon (code)
+## Specifics which could be improved upon (code)
 
 
 
-##Specifics which could be improved upon (UI)
+## Specifics which could be improved upon (UI)
 
 
 
